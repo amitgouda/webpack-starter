@@ -1,2 +1,2 @@
 # webpack-starter
-Webpack setup from scratch for learning
+Webpack setup with build analyzer from scratch for learning 
